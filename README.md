@@ -63,3 +63,7 @@ The `model.pkl` file contains a trained machine learning model used in the proje
 #### 2- Creating this notebook helped me to learn a lot about the features affecting the models to detect whether URL is safe or not, also I came to know how to tuned model and how they affect the model performance.
 #### 3- The final conclusion on the Phishing dataset is that the some feature like "HTTTPS", "AnchorURL", "WebsiteTraffic" have more importance to classify URL is phishing URL or not.
 #### 4- Gradient Boosting Classifier currectly classify URL upto 97.4% respective classes and hence reduces the chance of malicious attachments.
+
+## Contributors
+
+Sekandari Hamidreza
